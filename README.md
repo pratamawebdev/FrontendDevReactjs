@@ -1,5 +1,5 @@
 
-# Restaurants
+# FrontendDevReactjs(Restaurants)
 
 restaurants is a website that contains information on the list of restaurants in Indonesia from various cities. The information includes whether the restaurant is open or closed, price range, location of the restaurant city, description, category, food & drinks, reviews, restaurant address and so on. The data is obtained from the Dicoding api: https://restaurant-api.dicoding.dev/#/
 
